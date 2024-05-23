@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "907345012096",
+    "firebase_url": "https://paryavaranmitra-5f849-default-rtdb.firebaseio.com",
+    "project_id": "paryavaranmitra-5f849",
+    "storage_bucket": "paryavaranmitra-5f849.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907345012096:android:dadc60c9090ed54bfbcd65",
+        "android_client_info": {
+          "package_name": "com.example.admin_mitra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA1ZDydngmMFx0gkwU8OPnREq5yNE8-tQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907345012096:android:762c165687c5cc72fbcd65",
+        "android_client_info": {
+          "package_name": "com.example.paryavaran_mitra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA1ZDydngmMFx0gkwU8OPnREq5yNE8-tQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
